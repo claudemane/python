@@ -4,7 +4,7 @@ import os
 pygame.init()
 screen = pygame.display.set_mode((800, 600))
 
-music = ["music/WestsideGunn.wav","music/ASAPRocky.wav","music/DevilInANewDress.wav"]
+music = ["music/music2.wav","music/rickroll2.wav"]
 i = 0
 is_playing = False
 
